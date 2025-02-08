@@ -1,5 +1,5 @@
 # ling594-bogazici
-Ling594: Exploring Natural Languages Computatioanally
+Ling594: Exploring Natural Languages Computationally
 
 
 This is the web page of the course when I teach it.
